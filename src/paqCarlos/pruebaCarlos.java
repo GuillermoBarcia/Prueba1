@@ -16,6 +16,7 @@ public class pruebaCarlos {
     private JFrame jframe2;
 
     int a ;
+    
 
     public void pruebaCarlos(){
         System.out.println("hola");
