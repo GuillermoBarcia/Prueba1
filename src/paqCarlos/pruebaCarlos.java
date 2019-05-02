@@ -14,5 +14,9 @@ import javax.swing.JFrame;
 public class pruebaCarlos {
     private JFrame jframe;
     private JFrame jframe2;
+    public void pruebaCarlos(){
+        System.out.println("hola");
+    }
+    
             
 }
