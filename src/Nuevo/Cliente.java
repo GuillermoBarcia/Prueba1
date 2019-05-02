@@ -10,5 +10,5 @@ package Nuevo;
  * @author Admin
  */
 public class Cliente {
-    
+    //Hola
 }
