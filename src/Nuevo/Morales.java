@@ -10,5 +10,5 @@ package Nuevo;
  * @author Bryan jurado
  */
 public class Morales {
-    
+    //Hola Morales
 }
