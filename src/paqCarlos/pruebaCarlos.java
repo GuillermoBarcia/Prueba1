@@ -5,10 +5,14 @@
  */
 package paqCarlos;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author Carlos Iza
  */
 public class pruebaCarlos {
-    
+    private JFrame jframe;
+    private JFrame jframe2;
+            
 }
